@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img src='https://img.shields.io/badge/-Paper-00629B?style=flat&logo=ieee&logoColor=white' alt='arXiv'></a>
+<a href="https://ieeexplore.ieee.org/document/11348070"><img src='https://img.shields.io/badge/-Paper-00629B?style=flat&logo=ieee&logoColor=white' alt='arXiv'></a>
 <a href='https://realistic3d-miun.github.io/PVSDNet/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 <a href='https://huggingface.co/spaces/3ZadeSSG/PVSDNet-Depth-Only'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo_(PVSDNet_Zero_Shot_Depth)-blue'></a>
 <a href='https://huggingface.co/spaces/3ZadeSSG/PVSDNet'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo_(PVSDNet)-blue'></a>
@@ -25,7 +25,7 @@ Real-time novel view synthesis (NVS) and depth estimation are pivotal for immers
 
 * Download Checkpoints and place them into `./checkpoint/` directory
 
-    | Model           | Type | Size   | Checkpoint | Resoluton |
+    | Model           | Type | Size   | Checkpoint | Resolution |
     |-----------------|--------|----------------|----------------|----------------|
     | PVSDNet  | Novel View+Depth | 1.54 GB| [Download](https://huggingface.co/3ZadeSSG/PVSDNet/resolve/main/pvsdnet_model.pth) | 256x256 |
     | PVSDNet-Lite| Novel View+Depth  | 755 MB | [Download](https://huggingface.co/3ZadeSSG/PVSDNet/resolve/main/pvsdnet_lite_model.pth) | 256x256 |
