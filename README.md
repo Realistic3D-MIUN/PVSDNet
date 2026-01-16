@@ -43,7 +43,7 @@ Run the Gradio app to visualize the results in a web interface. You can generate
 python app_pvsdnet.py
 ```
 The app will look like this:
-<img src="./static/PVSDNet_HuggingFace.png" alt="App PVSDNet">
+<img src="./static/PVSDNet_Huggingface.png" alt="App PVSDNet">
 
 ## 1.B. Real-Time Inference
 Run the mouse control script to interactively explore the view and depth synthesis.
@@ -95,7 +95,7 @@ Run the Gradio app for Zero-Shot Depth Estimation with multi-resolution fusion.
 python app_depth.py
 ```
 The app will look like this:
-<img src="./static/PVSDNet_Depth_Only_HuggingFace.png" alt="App PVSDNet-Depth-Only">
+<img src="./static/PVSDNet_Depth_Only_Huggingface.png" alt="App PVSDNet-Depth-Only">
 
 ## 2.B. Real-Time Inference Script
 Visualize depth prediction on a single image.
